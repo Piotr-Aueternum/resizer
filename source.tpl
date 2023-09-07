@@ -1,0 +1,1 @@
+<source media="(min-width:${resolution}px)" srcset="${file_name}-${resolution}w.${ext}">

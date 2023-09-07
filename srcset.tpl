@@ -1,0 +1,1 @@
+${file_name}-${resolution}w.${ext} ${resolution}w
